@@ -8,9 +8,9 @@
 ## The interface
 ### Panels
 - Project
--- changing the layout
+  - changing the layout
 - Program monitor
--- what do the buttons do?
+  - what do the buttons do?
 - Source monitor
 - Timeline
 - Workspace layouts
