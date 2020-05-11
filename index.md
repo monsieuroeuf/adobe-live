@@ -8,17 +8,23 @@
 ## The interface
 ### Panels
 - Project
+-- changing the layout
 - Program monitor
+-- what do the buttons do?
 - Source monitor
 - Timeline
 - Workspace layouts
+- Tools!
 
 ## Importing media
 - Drag straight from the Desktop, or double click "Import media to start"
 - Organising media into bins
+- Hover scrub
+- What are PEK files?
 
 ## Create a new timeline
 - Drag a clip into the timeline to change the sequence settings
+- OR drag clips on to the new clip icon
 
 ## Using the source monitor
 - Setting in and out points
