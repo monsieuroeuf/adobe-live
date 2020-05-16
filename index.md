@@ -1,10 +1,5 @@
 # Premiere Pro for beginners
 
-## Creating a project
-
-- Resolution, frame rate
-- Disk space, make sure you have plenty 
-
 ## The interface
 ### Panels
 - Project
@@ -42,11 +37,6 @@
 - Track targeting
 - Adding new tracks
 
-## Transitions
-- Browsing effects
-- Ensuring your clip has handles
-- Changing duration and parameters
-
 ## Media management
 
 - Transcoding for quicker editing
@@ -62,3 +52,13 @@
 - Gang viewer to timeline and vice versa
 - Find gaps
 - Slip 'n' slide
+
+## File specs
+
+- Resolution, frame rate
+- Disk space, make sure you have plenty 
+
+## Transitions
+- Browsing effects
+- Ensuring your clip has handles
+- Changing duration and parameters
